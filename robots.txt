@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tecmanifest.github.io/tec-338/sitemap.xml
